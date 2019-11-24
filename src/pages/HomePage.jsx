@@ -12,6 +12,7 @@ const HomePage = () => {
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat aspernatur voluptate facere commodi placeat velit numquam ad modi deleniti ab nisi nostrum similique veniam nam officiis neque ut blanditiis doloribus corporis, corrupti minima sequi omnis nesciunt. Impedit hic magnam nisi.
       </p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum dolor odio possimus molestias dolorum, facere ex quasi, hic vitae ab dolores modi quae commodi optio molestiae? Accusantium est aliquam tempore et perferendis officia, porro sunt ex ratione doloribus. Sunt soluta voluptatem delectus nisi suscipit dolor sequi culpa nihil praesentium voluptate?</p>
     </>
   )
 }
