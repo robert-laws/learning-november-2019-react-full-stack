@@ -1,4 +1,5 @@
 import React from 'react';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import HomePage from './pages/HomePage';
 
@@ -11,17 +12,17 @@ const { Content} = Layout;
 
 function App() {
   return (
-    <>
+    <Router>
       <Layout>
         <Content style={{ padding: '40px 50px' }}>
           <Row>
             <Col span={12}>
-              <HomePage />
+              <Route exact path='/' component={HomePage} />
             </Col>
           </Row>
         </Content>
       </Layout>
-    </>
+    </Router>
   );
 }
 
