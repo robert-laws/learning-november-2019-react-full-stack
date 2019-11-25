@@ -1,4 +1,5 @@
 import React from 'react';
+import { Icon } from 'antd';
 
 const HomePage = () => {
   return (
@@ -6,6 +7,7 @@ const HomePage = () => {
       <h1>
         Hello, welcome to the blog
       </h1>
+      <Icon type="edit" style={{ fontSize: '50px' }} theme='twoTone' />
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus amet odio similique non dolor, asperiores sequi pariatur distinctio deleniti, laudantium rem porro accusantium commodi sint reiciendis quasi, doloribus maiores praesentium!
       </p>
