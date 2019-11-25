@@ -28,7 +28,7 @@ function App() {
               <Route exact path='/' component={HomePage} />
               <Route path='/about' component={About} />
               <Route path='/articles' component={Articles} />
-              <Route path='/article' component={Article} />
+              <Route path='/article/:name' component={Article} />
             </Col>
           </Row>
         </Content>
