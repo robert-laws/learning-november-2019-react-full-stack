@@ -10,7 +10,7 @@ const articles = [
     ]
   },
   {
-    name: 'node',
+    name: 'learn-node',
     title: 'Node JS is a Great Utility',
     content: [
       `Voluptates quibusdam sint. Possimus ullam, fugiat veritatis dolorum sunt quas mollitia vel ea rerum aliquam provident temporibus tenetur obcaecati et porro, eum recusandae rem consectetur maxime impedit at? Corrupti.`,
@@ -20,7 +20,7 @@ const articles = [
     ]
   },
   {
-    name: 'express',
+    name: 'my-thoughts-on-resumes',
     title: 'Use Express to Create a Web Application',
     content: [
       `Et ipsa tempora illum fuga ad eligendi, voluptates quibusdam sint. Possimus ullam, fugiat veritatis dolorum sunt quas mollitia vel ea rerum aliquam provident temporibus tenetur obcaecati et porro, eum recusandae rem consectetur maxime impedit at? Corrupti.`,
